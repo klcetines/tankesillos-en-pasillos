@@ -31,3 +31,5 @@ For access to the complete Unity project:
 ## Technologies Used
 - Unity 2022.3+
 - C#
+
+**Project Developed on December 2024**
