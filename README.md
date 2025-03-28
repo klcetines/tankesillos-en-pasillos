@@ -19,7 +19,7 @@ Tank battle game where players:
 ## Getting the Full Project
 
 For access to the complete Unity project:
-- 📧 Email: [laneulaestubular@gmail.com](mailto:laneulaestubular@gmail.com)
+- 📧 Email: [bernatvafo@gmail.com](mailto:bernatvafo@gmail.com)
 - 💼 LinkedIn: [Bernat Valero Fontana](https://linkedin.com/in/bernatvafo)
 
 ## Key Features
