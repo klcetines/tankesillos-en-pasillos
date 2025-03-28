@@ -2,7 +2,7 @@
 
 **Degree Project** - A multiplayer tank battle game set in procedurally generated, destructible mazes.
 
-![Unity](https://img.shields.io/badge/Unity-2021.3+-black.svg?logo=unity&style=flat) 
+![Unity](https://img.shields.io/badge/Unity-2022.3+-black.svg?logo=unity&style=flat) 
 ![Procedural Generation](https://img.shields.io/badge/Level-Procedural%20Generation-blueviolet)
 
 ## About the Project
